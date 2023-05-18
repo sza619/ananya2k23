@@ -40,6 +40,7 @@ export default function Event() {
   const about = solo.map((items) => {
     return (
       <EventComp
+        key={items.id}
         about={items.about}
         entry_Fee={items.entry_Fee}
         points={items.points}
