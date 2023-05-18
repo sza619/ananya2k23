@@ -5,7 +5,7 @@ export default function Card(props) {
     <div className="card w-20">
       <img
         className="card-img-top "
-        src={`${props.img}`}
+        src={`../${props.img}`}
         alt="Card image cap"
       />
       <div className="card-body">
