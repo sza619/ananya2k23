@@ -12,12 +12,14 @@ export default function Card(props) {
       />
       <div className="card-body poppins">
         <h5 className="card-title text-xl my-2">{props.title}</h5>
-        <Link
-          href={`./events/day${props.day}/${props.id}`}
-          className="btn btn-primary"
-        >
-          View Details
-        </Link>
+        <button className="bg-teal-500 rounded-lg py-4 bg-gradient-to-r from-blue-500 to-blue-700  font-medium text-lg  text-white w-1/2 justify-center align-middle ">
+          <Link
+            href={`./events/day${props.day}/${props.id}`}
+            className="text-center text-white font-medium"
+          >
+            View Details
+          </Link>
+        </button>
       </div>
     </div>
   );

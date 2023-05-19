@@ -8,7 +8,7 @@ import Image from "next/image";
 export default function Header() {
   return (
     <header className="head">
-      <Image src={logo} alt="Image" priority className="ksit--logo" />{" "}
+      <Image src={logo} alt="Image" priority className="w-10 md:w-32" />{" "}
       {/* <h1>ANANYA 2K23</h1> */}
       <Image src={ananya} alt="Image" priority className="ananya--logo" />{" "}
       <Image src={axi23} alt="Image" priority className="logo " />{" "}

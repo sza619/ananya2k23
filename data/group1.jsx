@@ -1,6 +1,6 @@
 export default [
   {
-    id: 1,
+    id: 5,
     day: 1,
     title: "VALORANT",
     about:
@@ -13,7 +13,7 @@ export default [
       "Team of 5 (teammates can be from any department); Rules will be explained on spot; Get your own PC; Internet will be provided; Event will be conducted in the campus. ",
   },
   {
-    id: 2,
+    id: 6,
     day: 1,
     title: "BOB THE BUILDER",
     about:
@@ -26,7 +26,7 @@ export default [
       "Team of 2; 30 mins duration (20 mins for searching the clue and 10 mins for building); Materials will be provided",
   },
   {
-    id: 3,
+    id: 7,
     day: 1,
     title: "MINI FOOTBALL",
     about:
@@ -39,7 +39,7 @@ export default [
       "Team of 5 including goal keeper; Each half of 7 mins; All team members from the same department; Every match is a knock out match.",
   },
   {
-    id: 4,
+    id: 8,
     day: 1,
     title: "KHAAMOSHH!! Let your action speak",
     about:
@@ -51,7 +51,7 @@ export default [
     rules: "Team of 3; 2 elimination rounds; No electronic devices.",
   },
   {
-    id: 5,
+    id: 9,
     day: 1,
     title: "JAM- just a minute",
     about:
