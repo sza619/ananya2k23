@@ -1,6 +1,7 @@
 export default [
   {
     id: 1,
+    day: 1,
     title: "REEL IT",
     about:
       "we find ourselves singing a song lyrics of trending reels which make no sense to us. But, only a true-blue Instagram OG is able to guess the lyrics and sometimes, even the signature step of the song by just hearing it once.",
@@ -13,6 +14,7 @@ export default [
   },
   {
     id: 2,
+    day: 1,
     title: "RANG-TARANG",
     about:
       "express your creativity and love towards our culture through the traditional art form of rangoli",
@@ -25,6 +27,7 @@ export default [
   },
   {
     id: 3,
+    day: 1,
     title: "COLOURFUL MINDS",
     about:
       "Calling all talented artists and creative minds! Prepare your brushes and unleash your creativity in the exhilarating Colorful Minds: On-Spot Painting Competition. This competition challenges you to showcase your artistic prowess and create stunning artwork on the spot.",
@@ -37,6 +40,7 @@ export default [
   },
   {
     id: 4,
+    day: 1,
     title: "Eat Fir Repeat",
     about:
       "Are you a foodie looking for a challenge?Join us for this thrilling event that will put your taste buds and stomach to the ultimate test. So come hungry, bring your appetite, and get ready to eat your way to the top.",

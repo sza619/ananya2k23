@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   box-sizing: border-box;
 }
@@ -49,7 +53,6 @@ footer > p {
 
 .head > h1 {
   font-size: 60px;
-  /* font-family: Arial, Helvetica, sans-serif; */
   margin: 3vh;
 }
 
@@ -86,8 +89,7 @@ footer > p {
 .navbar-nav li {
   float: left;
   color: gold;
-  /* font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", */
-  /* "Lucida Sans", Arial, sans-serif; */
+
   font-size: 20px;
 }
 
@@ -166,6 +168,8 @@ fieldset.scheduler-border {
 .desc {
   margin: 5vw;
   padding: 5vw;
+  border: 5px dotted gold;
+  border-radius: 5px;
 }
 
 a {
