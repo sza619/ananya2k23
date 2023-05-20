@@ -17,7 +17,7 @@ export default function Card(props) {
               <p>Fee: {props.fee}</p>
             </div>
           </div>
-          <div class="absolute inset-0 h-full w-full rounded-xl bg-black/90 px-12 text-center text-slate-200 [transform:rotateY(180deg)] [backface-visibility:hidden]">
+          <div class="absolute inset-0 h-full w-full bg-black/90 px-12 text-center text-slate-200 [transform:rotateY(180deg)] [backface-visibility:hidden]">
             <div class="flex min-h-full flex-col items-center justify-center">
               <p>
                 <span className="text-yellow-400">About: </span>
