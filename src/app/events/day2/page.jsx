@@ -13,6 +13,10 @@ export default function Day2() {
         img={item.img}
         id={item.id}
         day={item.day}
+        about={item.about}
+        fee={item.entry_Fee}
+        points={item.points}
+        rules={item.rules}
       />
     );
   });
@@ -24,6 +28,10 @@ export default function Day2() {
         title={itemm.title}
         img={itemm.img}
         day={itemm.day}
+        about={itemm.about}
+        fee={itemm.entry_Fee}
+        points={itemm.points}
+        rules={itemm.rules}
       />
     );
   });

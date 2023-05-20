@@ -13,6 +13,10 @@ export default function Day1() {
         img={item.img}
         id={item.id}
         day={item.day}
+        about={item.about}
+        fee={item.entry_Fee}
+        points={item.points}
+        rules={item.rules}
       />
     );
   });
@@ -24,6 +28,10 @@ export default function Day1() {
         title={itemm.title}
         img={itemm.img}
         day={itemm.day}
+        about={itemm.about}
+        fee={itemm.entry_Fee}
+        points={itemm.points}
+        rules={itemm.rules}
       />
     );
   });
@@ -47,7 +55,7 @@ export default function Day1() {
         <h1 className="text-3xl my-5">Solo Events</h1>
         <div className="cards-list container">{cards}</div>
         <br />
-        <h1 className="text-3xl my-5">Group Events</h1>
+        <h1 className="text-3xl mb-7 mt-10">Group Events</h1>
         <div className="cards-list container">{cardss}</div>
       </section>
     </div>
