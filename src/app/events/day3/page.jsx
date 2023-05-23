@@ -24,6 +24,8 @@ export default function Day3() {
       <section>
         <h1 className="text-5xl text-center mt-5 mb-2">ANANYA DAY</h1>
         <br />
+        <h5 className="text-center mt-1 mb-2">View in landscape and click on cards to View Details</h5>
+        <br />
         <div className="cards-list container">{cardss}</div>
       </section>
     </div>
