@@ -52,7 +52,7 @@ export default function Day2() {
     <div>
       <section>
         <br />
-        <h5 className="text-center mt-1 mb-2">View in landscape and click on cards to View Details</h5>
+        <h5 className="text-center mb-2">View in landscape and click on cards to View Details</h5>
         <h1 className="text-3xl my-5">Solo Events</h1>
         <div className="cards-list container">{cards}</div>
         <br />
