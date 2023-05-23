@@ -15,11 +15,11 @@ export default function Navbar() {
             Events
           </Link>
         </li>
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <Link className="nav-link" href="../ananya2k22">
             Ananya 2k22
           </Link>
-        </li>
+        </li> */}
         <li className="nav-item">
           <Link className="nav-link" href="../contact">
             Contact

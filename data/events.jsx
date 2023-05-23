@@ -3,13 +3,13 @@ export default [
     id: 1,
     title: "VALORANT",
     about:
-      "This is your chance to showcase your skills, strategy, and teamwork as you battle it out against other players in the college.Don't miss out on this thrilling opportunity to compete and make new frie",
+      "This is your chance to showcase your skills, strategy, and teamwork as you battle it out against other players in the college.Don't miss out on this thrilling opportunity to compete and make new friend.",
     entry_Fee: "300 per team",
     type: "Group",
     points: "15",
     img: "valo.jpg",
     rules:
-      "Team of 5 (teams can include any department), Rules will be explained on spot, Get your own PC. Internet will be provided, Event will conducted in campus. ",
+      "Team of 5 (teams can include any department), Rules will be explained on spot, Get your own PC. Internet will be provided, Event will conducted in campus.",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export default [
     id: 3,
     title: "REEL IT",
     about:
-      "we find ourselves singing a song lyrics of trending reels which make no sense to us. But, only a true-blue Instagram OG is able to guess the lyrics and sometimes, even the signature step of the song by just hearing it once.",
+      "We find ourselves singing a song lyrics of trending reels which make no sense to us. But, only a true-blue Instagram OG is able to guess the lyrics and sometimes, even the signature step of the song by just hearing it once.",
     entry_Fee: "50 per entry",
     type: "Solo",
     points: "1st place:3, 2nd place:1",

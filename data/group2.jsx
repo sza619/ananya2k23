@@ -30,7 +30,7 @@ export default [
     day: 2,
     title: "GO FILMY",
     about:
-      "do u consider yourself a cinephile??? Or do you just love kicking back and relaxing to good flick if so , we have got a challenge for you",
+      "Do u consider yourself a cinephile??? Or do you just love kicking back and relaxing to good flick if so, we have got a challenge for you",
     entry_Fee: "150 per team",
     type: "Group",
     points: "1st place:3, 2nd place:1",
@@ -43,7 +43,7 @@ export default [
     day: 2,
     title: "RED ISNT BLUE",
     about:
-      ":The only thing you need to play this game is GODLIKE aim and quick reflexes to dodge the shower of water ballons thrown by the opponent",
+      "The only thing you need to play this game is GODLIKE aim and quick reflexes to dodge the shower of water ballons thrown by the opponent",
     entry_Fee: "100 per team",
     type: "Group",
     points: "1st place:3, 2nd place:1",

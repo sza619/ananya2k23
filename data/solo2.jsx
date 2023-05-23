@@ -17,7 +17,7 @@ export default [
     day: 2,
     title: "Dance (western)",
     about:
-      "Dance is a great way to express oneself . Dance from your heart and let passion grove the vibe.",
+      "Dance is a great way to express oneself. Dance from your heart and let passion grove the vibe.",
     entry_Fee: "50 per entry",
     type: "Solo",
     points: "1st place:3, 2nd place:1",
@@ -30,7 +30,7 @@ export default [
     day: 2,
     title: "FILMY HITS (singing)",
     about:
-      "Come entice the audience and enable them to feel closer to the Almighty, inthe soothing musical competition.",
+      "Come entice the audience and enable them to feel closer to the Almighty, in the soothing musical competition.",
     entry_Fee: "50 per entry",
     type: "Solo",
     points: "1st place:3, 2nd place:1",

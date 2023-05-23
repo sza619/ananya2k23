@@ -12,7 +12,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html className={`${poppins.className} mx-14 my-5`}>
+    <html className={`${poppins.className} md:mx-14 my-5`}>
       <head></head>
       <body>
         <header>
