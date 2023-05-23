@@ -7,7 +7,7 @@ const poppins = Poppins({ weight: ["400", "500", "700"], subsets: ["latin"] });
 
 export const metadata = {
   title: "Ananya2k23",
-  description: "A page allll about Ananya2k23",
+  description: "All about the Events of Ananya2k23",
 };
 
 export default function RootLayout({ children }) {
