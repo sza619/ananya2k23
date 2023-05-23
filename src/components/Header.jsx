@@ -6,13 +6,13 @@ import ananya_logo from "../../public/logo.png";
 import Image from "next/image";
 
 export default function Header() {
-  return (
+  return (  
     <header className="head">
-      <Image src={logo} alt="Image" priority className="w-14 md:w-32" />{" "}
+      <Image src={logo} alt="Image" priority className="mx-1 w-12 h-12 md:w-36 md:h-36" />{" "}
       {/* <h1>ANANYA 2K23</h1> */}
-      <Image src={ananya} alt="Image" priority className="ananya--logo" />{" "}
-      <Image src={axi23} alt="Image" priority className="logo " />{" "}
-      <Image src={ananya_logo} alt="Image" priority className="ksit--logo" />{" "}
+      <Image src={ananya} alt="Image" priority className="mx-1 w-56 h-16 md:w-1/2 md:h-36" />{" "}
+      <Image src={axi23} alt="Image" priority className="mx-1 w-40 h-16 md:w-64 md:h-36" />{" "}
+      <Image src={ananya_logo} alt="Image" priority className="mx-1 w-12 h-12 md:w-40 md:h-36" />{" "}
     </header>
   );
 }
