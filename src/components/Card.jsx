@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Card(props) {
   return (
     <div class="card flex items-center justify-center mx-2">
-      <div class="group h-96 w-80 [perspective:1000px]">
+      <div class="group h-32 w-24 md:h-96 md:w-80 [perspective:1000px]">
         <div class="relative h-full w-full rounded-xl shadow-xl transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
           <div class="absolute inset-0">
             <img
