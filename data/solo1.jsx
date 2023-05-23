@@ -4,7 +4,7 @@ export default [
     day: 1,
     title: "REEL IT",
     about:
-      "we find ourselves singing a song lyrics of trending reels which make no sense to us. But, only a true-blue Instagram OG is able to guess the lyrics and sometimes, even the signature step of the song by just hearing it once.",
+      "We find ourselves singing a song lyrics of trending reels which make no sense to us. But, only a true-blue Instagram OG is able to guess the lyrics and sometimes, even the signature step of the song by just hearing it once.",
     entry_Fee: "50 per entry",
     type: "Solo",
     points: "1st place:3, 2nd place:1",
@@ -17,7 +17,7 @@ export default [
     day: 1,
     title: "RANG-TARANG",
     about:
-      "express your creativity and love towards our culture through the traditional art form of rangoli",
+      "Express your creativity and love towards our culture through the traditional art form of rangoli",
     entry_Fee: "50 per entry",
     type: "Solo",
     points: "1st place:3, 2nd place:1",
