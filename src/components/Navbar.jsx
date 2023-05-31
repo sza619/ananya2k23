@@ -15,11 +15,11 @@ export default function Navbar() {
             Events
           </Link>
         </li>
-        {/* <li className="nav-item">
-          <Link className="nav-link" href="../ananya2k22">
-            Ananya 2k22
+        <li className="nav-item">
+          <Link className="nav-link text-sm md:text-xl" href="../about">
+            About
           </Link>
-        </li> */}
+        </li>
         <li className="nav-item">
           <Link className="nav-link text-sm md:text-xl" href="../contact">
             Contact

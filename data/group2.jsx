@@ -60,7 +60,7 @@ export default [
     entry_Fee: "100 per team",
     type: "Group",
     points: "1st place:3, 2nd place:1",
-    img: "cooking.png",
+    img: "salad.jpg",
     rules:
       "Team of two; Bring all your requirements; Food should not be prepared in prior to the event; Duration of 25+5 mins.",
   },

@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Card(props) {
   return (
@@ -28,7 +29,7 @@ export default function Card(props) {
                 <span className="text-xs select-none md:text-base">{props.rules}</span>
               </p>
               <p>
-                <span className="text-yellow-400 text-xs md:text-base">Points: </span> 
+                <span className="text-yellow-400 text-xs md:text-base">Points: </span>
                 <span className="text-xs select-none md:text-base">{props.points}</span>
               </p>
             </div>
