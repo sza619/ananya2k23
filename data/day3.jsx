@@ -1,10 +1,10 @@
-git puexport default [
+export default [
   {
     id: 1,
-    about: "N/A",
-    img: "gana bajana.jpg",
+    about: "NA",
+    img: "sm.jpg",
     title: "GROUP SONG",
-    entry_Fee: "N/A",
+    entry_Fee: "NA",
     type: "Group",
     points: "10 points for winners",
     rules:
@@ -12,10 +12,10 @@ git puexport default [
   },
   {
     id: 2,
-    about: "N/A",
-    img: "western dance.png",
+    about: "NA",
+    img: "sm.jpg",
     title: "GROUP DANCE",
-    entry_Fee: "N/A",
+    entry_Fee: "NA",
     type: "Group",
     points: "10 points for winners",
     rules:
@@ -23,10 +23,10 @@ git puexport default [
   },
   {
     id: 3,
-    about: "N/A",
-    img: "figure.jpeg",
+    about: "NA",
+    img: "sm.jpg",
     title: "RAMP WALK",
-    entry_Fee: "N/A",
+    entry_Fee: "NA",
     type: "Group",
     points: "10 points for winners",
     rules:
@@ -34,10 +34,10 @@ git puexport default [
   },
   {
     id: 4,
-    about: "N/A",
-    img: "dramkween.png",
+    about: "NA",
+    img: "sm.jpg",
     title: "DRAMA",
-    entry_Fee: "N/A",
+    entry_Fee: "NA",
     type: "Group",
     points: "10 points for winners",
     rules:
