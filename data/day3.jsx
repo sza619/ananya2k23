@@ -1,4 +1,4 @@
-export default [
+git puexport default [
   {
     id: 1,
     about: "NA",
